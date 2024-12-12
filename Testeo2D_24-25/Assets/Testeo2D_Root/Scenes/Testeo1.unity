@@ -6924,6 +6924,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 2183298081479698763, guid: 140178deeb3dc8c4bb4547175caaf988, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2183298081479698763, guid: 140178deeb3dc8c4bb4547175caaf988, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -6971,9 +6975,17 @@ PrefabInstance:
       propertyPath: m_GravityScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4355078228759867985, guid: 140178deeb3dc8c4bb4547175caaf988, type: 3}
+      propertyPath: m_FlipX
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4545069499188811715, guid: 140178deeb3dc8c4bb4547175caaf988, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 6927925140296297607, guid: 140178deeb3dc8c4bb4547175caaf988, type: 3}
+      propertyPath: isGrounded
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7729581616311258309, guid: 140178deeb3dc8c4bb4547175caaf988, type: 3}
       propertyPath: m_Material
